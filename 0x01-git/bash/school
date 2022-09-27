@@ -1,3 +1,2 @@
-!/bin/bash
-school
-echo
+#!/bin/bash
+School
